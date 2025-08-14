@@ -1,0 +1,15 @@
+body{
+    background-image: url('../img/fondoWeb.png');
+}
+
+.LoginUsuario{
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.card-mio{
+    margin-top: 5%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
